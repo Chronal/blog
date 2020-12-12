@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>https://chronal.space/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://chronal.space/about/</loc>
+            
+                <lastmod>2020-12-13</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https://chronal.space/categories/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://chronal.space/categories/personal/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://chronal.space/page/1/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://chronal.space/tags/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://chronal.space/tags/about/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://chronal.space/tags/about/page/1/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://chronal.space/tags/personal/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://chronal.space/tags/personal/page/1/</loc>
+            
+        </url>
+    
+</urlset>

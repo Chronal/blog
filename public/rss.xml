@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Anuj&#x27;s Blog</title>
+        <link>https://chronal.space</link>
+        <description></description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://chronal.space/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+        
+            <item>
+                <title>About</title>
+                <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+                <link>https://chronal.space/about/</link>
+                <guid>https://chronal.space/about/</guid>
+                <description>&lt;h3 id=&quot;who-am-i&quot;&gt;Who am I?&lt;&#x2F;h3&gt;
+&lt;p&gt;Hi, I&#x27;m Anuj! This is my litte corner of the web.&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;ll be writing about things I find interesting primarily in the realm of computer science, physics and maths.&lt;&#x2F;p&gt;
+&lt;p&gt;At the moment, I&#x27;m taking a break from software development work and university to spend time learn things myself, namely:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distributed Systems&lt;&#x2F;li&gt;
+&lt;li&gt;Operating Systems&lt;&#x2F;li&gt;
+&lt;li&gt;Set Theory&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;contact&quot;&gt;Contact&lt;&#x2F;h3&gt;
+&lt;p&gt;Please feel free to contact me if you have any feedback, comments or questions about anything I&#x27;ve written.&lt;&#x2F;p&gt;
+&lt;p&gt;You can reach me:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;By Email: &lt;a href=&quot;mailto:chronal@chronal.space&quot;&gt;chronal@chronal.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;On Matrix: &lt;a href=&quot;matrix:@anuj:chronal.space&quot;&gt;@anuj:chronal.space&lt;&#x2F;a&gt; (The link may not work, the &amp;quot;matrix:&amp;quot; URI is a work in progress)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;blog-tech-stack&quot;&gt;Blog Tech Stack&lt;&#x2F;h3&gt;
+&lt;p&gt;This blog uses static site generator &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&quot;&gt;Zola&lt;&#x2F;a&gt; with the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Worble&#x2F;Zulma&quot;&gt;Zulma&lt;&#x2F;a&gt; theme.
+You can get an RSS feed for any of the categories or the tags by clicking on the category or tag and appending &lt;code&gt;rss.xml&lt;&#x2F;code&gt; to the url you get.&lt;&#x2F;p&gt;
+&lt;p&gt;For example: &lt;a href=&quot;https:&#x2F;&#x2F;chronal.space&#x2F;tags&#x2F;personal&#x2F;rss.xml&quot;&gt;https:&#x2F;&#x2F;chronal.space&#x2F;tags&#x2F;personal&#x2F;rss.xml&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;You can also get an RSS feed to everything: &lt;a href=&quot;https:&#x2F;&#x2F;chronal.space&#x2F;rss.xml&quot;&gt;https:&#x2F;&#x2F;chronal.space&#x2F;rss.xml&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+    </channel>
+</rss>
