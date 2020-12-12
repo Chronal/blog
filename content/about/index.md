@@ -12,7 +12,7 @@ Hi, I'm Anuj! This is my litte corner of the web.
 
 I'll be writing about things I find interesting, primarily in the realm of computer science, physics and maths.
 
-At the moment, I'm taking a break from software development work and university to spend time learn things myself. Namely:
+At the moment, I'm taking a break from software development work and university to spend time learning things myself. Namely:
 - Distributed Systems
 - Operating Systems
 - Set Theory
